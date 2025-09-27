@@ -15,9 +15,9 @@ env:
   KERNEL_SOURCE : "https://github.com/anrui2032/android_kernel_smartisan_sdm660.git"
   KERNEL_BRANCH : "lineage-18.1"
 
-  CLANG_SOURCE : ""
-  CLANG_BRANCH : ""
-
+  CLANG_SOURCE : "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b.git"
+  CLANG_BRANCH : "lineage-20.0"
+  
   GCC_GNU : "false"
   GCC_64_SOURCE : "https://developer.arm.com/-/media/Files/downloads/gnu-a/9.2-2019.12/binrel/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu.tar.xz"
   GCC_64_BRANCH : ""
