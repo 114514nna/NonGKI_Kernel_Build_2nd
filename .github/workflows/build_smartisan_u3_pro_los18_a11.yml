@@ -86,7 +86,7 @@ env:
 
 jobs:
   build-kernel:
-    name: Xiaomi Mix2s (Evolution X 10 A15)
+    name: Smartisan U3 Pro
     runs-on: ubuntu-latest # u can changed to ubuntu 22.04, and need container set ubuntu-latest
     # container: archlinux/archlinux:latest # if u need use arch linux -> archlinux/archlinux:latest or ubuntu 20.04 -> ubuntu:focal
     env:
