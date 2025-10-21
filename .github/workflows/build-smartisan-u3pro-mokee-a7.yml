@@ -13,7 +13,7 @@ env:
   EXTRA_CMDS : "LD=ld.lld LLVM=1 LLVM_IAS=1"
 
   KERNEL_SOURCE : "https://github.com/MoKee/android_kernel_smartisan_sdm660.git"
-  KERNEL_BRANCH : "mkn-mr1"
+  KERNEL_BRANCH : "mkp"
 
   CLANG_SOURCE : ""
   CLANG_BRANCH : ""
